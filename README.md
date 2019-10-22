@@ -1,4 +1,4 @@
-# dunn_e_pythonHW
+# Rock Paper Scissors in Python!
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
 prerequisites: all you need is Python3 to play. 
